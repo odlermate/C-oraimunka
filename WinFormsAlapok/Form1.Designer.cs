@@ -78,7 +78,7 @@
             // eredmeny
             // 
             this.eredmeny.Enabled = false;
-            this.eredmeny.Location = new System.Drawing.Point(523, 38);
+            this.eredmeny.Location = new System.Drawing.Point(582, 35);
             this.eredmeny.Name = "eredmeny";
             this.eredmeny.Size = new System.Drawing.Size(100, 20);
             this.eredmeny.TabIndex = 7;
